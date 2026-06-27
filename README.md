@@ -6,20 +6,20 @@ A simple and interactive command-line game built with Python where players try t
 
 The Python Number Guessing Game is a beginner-friendly project designed to strengthen programming fundamentals through an engaging game. It demonstrates the use of random number generation, loops, conditional statements, and user interaction in Python.
 
-## ✨ Features
+## Features
 
-- 🎲 Randomly generates a secret number
-- 🔢 Accepts user guesses
-- 📈 Tells the player when the guess is too high
-- 📉 Tells the player when the guess is too low
-- 🎉 Congratulates the player when the correct number is guessed
-- 🖥️ Easy-to-use command-line interface
+-  Randomly generates a secret number
+-  Accepts user guesses
+-  Tells the player when the guess is too high
+- Tells the player when the guess is too low
+-  Congratulates the player when the correct number is guessed
+-  Easy-to-use command-line interface
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - Python 3
 
-## 📂 Project Structure
+## Project Structure
 
 ```text
 python-number-guessing-game/
@@ -32,7 +32,7 @@ python-number-guessing-game/
 
 > **Note:** Replace `number_guessing_game.py` with the actual name of your Python file if it is different.
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -58,7 +58,7 @@ Run the program:
 python number_guessing_game.py
 ```
 
-## 💻 Sample Output
+##  Sample Output
 
 ```text
 Welcome to the Number Guessing Game!
@@ -73,10 +73,10 @@ Too high!
 
 Enter your guess: 61
 
-🎉 Congratulations! You guessed the correct number.
+Congratulations! You guessed the correct number.
 ```
 
-## 📚 Skills Demonstrated
+## Skills Demonstrated
 
 This project showcases:
 
@@ -88,7 +88,7 @@ This project showcases:
 - Random number generation (`random` module)
 - Problem-solving and logical thinking
 
-## 🔮 Future Improvements
+## Future Improvements
 
 - Add multiple difficulty levels
 - Limit the number of attempts
@@ -96,11 +96,11 @@ This project showcases:
 - Save high scores
 - Allow players to play multiple rounds
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome. Feel free to fork this repository, improve the project, and submit a pull request.
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License.
 
